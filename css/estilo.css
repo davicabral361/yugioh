@@ -1,0 +1,21 @@
+*{
+
+    margin-top:10px;
+    margin-bottom: 10px;
+    }
+body{
+    
+    padding:10px;
+}
+.row {
+background-color: black;
+
+
+}
+section {
+background-image: url(../img/design.png);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+}

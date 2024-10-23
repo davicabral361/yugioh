@@ -1,0 +1,18 @@
+.zoom {
+    background-color:black;
+    transition: transform .2s;
+    margin: 0 auto;
+
+  }
+  .zoom:hover {
+    transform: scale(1.5);
+    padding: 2%;
+    
+  }
+  .zoom {
+     padding: 2%;
+     
+  }
+  h5 {
+    color: white;
+  }
